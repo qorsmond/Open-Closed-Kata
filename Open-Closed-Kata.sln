@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open-Closed-Kata", "PhilTaak\Open-Closed-Kata.csproj", "{5858F7C6-0A98-4AD9-8D05-18A101892800}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open-Closed-Kata", "Open-Closed-Kata\Open-Closed-Kata.csproj", "{5858F7C6-0A98-4AD9-8D05-18A101892800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
