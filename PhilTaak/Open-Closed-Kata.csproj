@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>OC_Kata</AssemblyName>
+    <RootNamespace>OC_Kata</RootNamespace>
+  </PropertyGroup>
+
+</Project>
